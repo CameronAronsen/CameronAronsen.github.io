@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Emerging Tech Problem Search</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="index.js "></script>
+</head>
+
+<body class="dark:bg-slate-800 dark:text-white font-mono">
+    <br>
+    <h1 class="text-4xl flex justify-center font-bold">Emerging Tech Search Tool</h1><br><br>
+    <div class="flex justify-center w-screen h-16">
+        <form id="searchForm" class="flex justify-center w-1/2" onsubmit="event.preventDefault(); Search();">
+            <input type="text" id="searchBox" placeholder="Type your problem here" class="w-full h-full dark:text-black rounded-l drop-shadow-2xl pl-3 text-xl">
+            <button type="submit" id="searchButton " value="Search " class="dark:bg-gray-200 dark:text-black w-36 rounded-r drop-shadow-m text-xl">Search</button>
+        </form>
+    </div>
+    <br>
+    <br>
+    <div id="technologies" class="flex justify-center flex-col">
+        <h1 class="text-3xl flex justify-center">Technologies</h1>
+        <table id="techList" class="flex justify-center table-fixed">
+        </table>
+    </div>
+</body>
+
+</html>
