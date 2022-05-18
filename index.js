@@ -41,7 +41,7 @@ class TechnologyList {
         let result = [];
         for (let i = 0; i < this.technologyList.length; i++) {
             for (let j = 0; j < searchText.length; j++) {
-                let testWord = searchText[j]
+                let testWord = searchText[j].toLowerCase();
                 if (this.technologyList[i].keywords.includes(testWord)) {
                     result.push(this.technologyList[i]);
                 }
