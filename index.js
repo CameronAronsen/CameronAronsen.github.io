@@ -23,25 +23,17 @@ class TechnologyList {
 
     showTechnologies(technologies) {
         let myTable = document.getElementById("techList");
-        myTable.innerHTML = "";
-        let mainRow = myTable.insertRow(0);
-        let cellOne = mainRow.insertCell(0);
-        let cellTwo = mainRow.insertCell(1);
-        let cellThree = mainRow.insertCell(2);
-        cellOne.innerHTML = "Name";
-        cellTwo.innerHTML = "Description";
-        cellThree.innerHTML = "Keywords";
-        cellOne.setAttribute("class", "w1/2");
-        cellTwo.setAttribute("class", "w1/4");
-        cellThree.setAttribute("class", "w1/4");
+        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th>Name</th><th style='width:50%;'>Application</th><th>Keywords</th></tr>";
         for (let i = 0; i < technologies.length; i++) {
             let mainRow = myTable.insertRow(i + 1);
             let cellOne = mainRow.insertCell(0);
             let cellTwo = mainRow.insertCell(1);
             let cellThree = mainRow.insertCell(2);
-            cellOne.innerHTML = technologies[i].name;
-            cellTwo.innerHTML = technologies[i].description;
-            cellThree.innerHTML = technologies[i].keywords;
+            let cellFour = mainRow.insertCell(3);
+            cellOne.innerHTML = i + 1;
+            cellTwo.innerHTML = technologies[i].name;
+            cellThree.innerHTML = technologies[i].description;
+            cellFour.innerHTML = technologies[i].keywords;
         }
     }
 
@@ -49,7 +41,8 @@ class TechnologyList {
         let result = [];
         for (let i = 0; i < this.technologyList.length; i++) {
             for (let j = 0; j < searchText.length; j++) {
-                if (this.technologyList[i].keywords.includes(searchText[j])) {
+                let testWord = searchText[j]
+                if (this.technologyList[i].keywords.includes(testWord)) {
                     result.push(this.technologyList[i]);
                 }
             }
@@ -61,7 +54,7 @@ class TechnologyList {
     loadData() {
         var data = [];
         $.ajax({
-            url: 'generated.json',
+            url: 'data.json',
             async: false,
             dataType: 'json',
             success: function(json) {
@@ -69,7 +62,7 @@ class TechnologyList {
             }
         });
         data.forEach(item => {
-            var technology = new Technology(item.name, item.description, item.keywords);
+            var technology = new Technology(item.Technology, item.Applications, item.Keywords.toLowerCase());
             this.addTechnology(technology);
         })
     }
@@ -88,24 +81,6 @@ techList.loadData();
 
 window.onload = function() {
     techList.search();
-}
-
-// When the user scrolls the page, execute myFunction
-window.onscroll = function() { scrollFunc() };
-
-// Get the header
-var header = document.getElementById("myHeader");
-
-// Get the offset position of the navbar
-var sticky = header.offsetTop;
-
-// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-function scrollFunc() {
-    if (window.pageYOffset > sticky) {
-        header.classList.add("sticky");
-    } else {
-        header.classList.remove("sticky");
-    }
 }
 
 function Search() {
