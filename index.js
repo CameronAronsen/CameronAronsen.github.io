@@ -23,7 +23,7 @@ class TechnologyList {
 
     showTechnologies(technologies) {
         let myTable = document.getElementById("techList");
-        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th>Name</th><th style='width:50%;'>Application</th><th>Keywords</th></tr>";
+        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th style='width:15%;'>Name</th><th style='width:65%;'>Application</th><th style='width:15%;'>Keywords</th></tr>";
         for (let i = 0; i < technologies.length; i++) {
             let mainRow = myTable.insertRow(i + 1);
             let cellOne = mainRow.insertCell(0);
@@ -42,8 +42,20 @@ class TechnologyList {
         for (let i = 0; i < this.technologyList.length; i++) {
             for (let j = 0; j < searchText.length; j++) {
                 let testWord = searchText[j].toLowerCase();
-                if (this.technologyList[i].keywords.includes(testWord)) {
-                    result.push(this.technologyList[i]);
+                for (let k = 0; k < this.technologyList[i].keywords.length; k++) {
+                    if (this.technologyList[i].keywords[k].split(' ').length > 1) {
+                        let words = this.technologyList[i].keywords[k].split(' ');
+                        for (let l = 0; l < words.length; l++) {
+                            if (words[l].toLowerCase() == testWord) {
+                                result.push(this.technologyList[i]);
+                            }
+                        }
+                    } else {
+                        if (this.technologyList[i].keywords[k].toLowerCase() == testWord) {
+                            result.push(this.technologyList[i]);
+                            break;
+                        }
+                    }
                 }
             }
         }
@@ -62,7 +74,8 @@ class TechnologyList {
             }
         });
         data.forEach(item => {
-            var technology = new Technology(item.Technology, item.Applications, item.Keywords.toLowerCase());
+            let keywords = item.Keywords.toLowerCase().split(", ");
+            var technology = new Technology(item.Technology, item.Applications, keywords);
             this.addTechnology(technology);
         })
     }
