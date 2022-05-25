@@ -23,7 +23,7 @@ class TechnologyList {
 
     showTechnologies(technologies) {
         let myTable = document.getElementById("techList");
-        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th style='width:15%;'>Name</th><th style='width:65%;'>Application</th><th style='width:15%;'>Cases</th><th style='width:15%;'>Keywords</th></tr>";
+        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th style='width:15%;'>Name</th><th style='width:50%;'>Application</th><th style='width:15%;'>Cases</th><th style='width:15%;'>Keywords</th></tr>";
         for (let i = 0; i < technologies.length; i++) {
             let mainRow = myTable.insertRow(i + 1);
             let cellOne = mainRow.insertCell(0);
