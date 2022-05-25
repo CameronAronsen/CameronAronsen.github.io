@@ -2,7 +2,6 @@ th,
 td {
     padding: 10px;
     width: 50px;
-    overflow: hidden;
 }
 
 
@@ -624,4 +623,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 table {
     width: 50%;
     table-layout: fixed;
+}
+
+td {
+    overflow-wrap: break-word;
 }
