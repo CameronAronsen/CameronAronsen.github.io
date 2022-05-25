@@ -603,19 +603,19 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 @media (prefers-color-scheme: dark) {
-    .dark\:bg-slate-800 {
+    .bg-slate-800 {
         --tw-bg-opacity: 1;
         background-color: rgb(30 41 59 / var(--tw-bg-opacity));
     }
-    .dark\:bg-gray-200 {
+    .bg-gray-200 {
         --tw-bg-opacity: 1;
         background-color: rgb(229 231 235 / var(--tw-bg-opacity));
     }
-    .dark\:text-white {
+    .text-white {
         --tw-text-opacity: 1;
         color: rgb(255 255 255 / var(--tw-text-opacity));
     }
-    .dark\:text-black {
+    .text-black {
         --tw-text-opacity: 1;
         color: rgb(0 0 0 / var(--tw-text-opacity));
     }

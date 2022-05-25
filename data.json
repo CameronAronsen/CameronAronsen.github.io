@@ -2,751 +2,889 @@
   {
     "Technology": "Artificial Intelligence",
     "Applications": "Machine learning algorithms. Implementation into combat models, simulations, and defense weapons due to its rapid decision making that is faster than a human. AI can also be used commercially to find products that customers might want to purchase",
-    "Implementations": "",
-    "Keywords": "AI, Artificial Intelligence, Machine Learning, Algorithms"
+    "Cases": "",
+    "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms"
   },
   {
     "Technology": "space technologies",
     "Applications": "As humans progress the search and exploration of space increases greatly. So these could be used for developing ships that can travel further into space, as well as increasing the quality of living on earth with things such as satellites for communication.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Space Technology"
   },
   {
     "Technology": "Quantum technologies",
     "Applications": "Ultra sensitive sensors, Accurate clocks, encryption, communication and quantum computing are all tools that can utilise the power of quantum phenomena",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Quantum, Quantum Technology, Quantum Computing"
   },
   {
-    "Technology": "biologically enhance the human capabilities.",
+    "Technology": "Biologically enhance the human capabilities.",
     "Applications": "This brings the idea of genetically modifying humans to develop medical countermeasures or novel pathogens to change how humans deal with things such as genetic diseases. Another idea that is played with is to utilise robotics to enhance specific aspects of humans such as vision, neural interfaces, and integration with AI and autonomous systems",
-    "Implementations": "",
-    "Keywords": ""
+    "Cases": "",
+    "Keywords": "Biology, Biological Enhancement, Enhancement"
   },
   {
     "Technology": "Novel materials",
     "Applications": "The idea proposed includes coatings which provide extreme heat resistance, high strength armour, stealth coatings. As well as more impressive ones including energy harvesting and storage, and superconductivity.",
-    "Implementations": "",
-    "Keywords": ""
+    "Cases": "",
+    "Keywords": "Novel Material, Material, Unique Properties"
   },
   {
     "Technology": "Artificial Intelligence",
     "Applications": "Potential applications such as virtual assistants, intelligence analysts will be able to leverage trusted systems capable of tasking, collecting, processing, exploiting,\ndisseminating.",
-    "Implementations": "C4ISR - War fighting units",
+    "Cases": "C4ISR - War fighting units",
+    "Keywords": "AI, Artificial Intelligence"
+  },
+  {
+    "Technology": "Aritificial Intelligence",
+    "Applications": "Utilisation of AI in Collision avoidance, battle damadage assessments, trajectory planning.",
+    "Cases": "Weapons and effects",
     "Keywords": "AI, Artificial Intelligence"
   },
   {
     "Technology": "Artificial Intelligence",
-    "Applications": "Collision avoidance, operator assistance, and autonomous system.",
-    "Implementations": "UxV Unmmaned vehicle",
+    "Applications": "Utilisation of AI in Collision avoidance, operator assistance, and autonomous systems.",
+    "Cases": "UxV Unmmaned vehicle",
     "Keywords": "AI, Artificial Intelligence, Robotics"
   },
   {
     "Technology": "Artificial Intelligence",
-    "Applications": "Potential applications could be for bomb detections, scouting, and harazard management.",
-    "Implementations": "",
+    "Applications": "Potential applications could be for bomb detections, scouting, and harazard management, as it informs on course of action for disabling these hazards.",
+    "Cases": "",
     "Keywords": "AI, Artificial Intelligence"
   },
   {
     "Technology": "Artificial Intelligence",
     "Applications": "Simulation, deep fakes, communications with enemies, and social media hacks.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Artificial Intelligence, Deep Fakes"
   },
   {
-    "Technology": "Information management: programming",
-    "Applications": "",
-    "Implementations": "",
-    "Keywords": ""
+    "Technology": "Algorithms",
+    "Applications": "Search engines using advanced algorithms that has knowledge of context, to provide more targeted searched.",
+    "Cases": "",
+    "Keywords": "Algorithms, Alogrithm, Search Engine, Search"
   },
   {
-    "Technology": "Autonomous software",
-    "Applications": "Offensive and defensive cyber operations.",
-    "Implementations": "",
-    "Keywords": ""
+    "Technology": "Autonomous systems",
+    "Applications": "Utilising autonomous agents to perform tasks too dangerous for humans",
+    "Cases": "",
+    "Keywords": "Automated Systems, Automation, Robotics, Robots"
   },
   {
-    "Technology": "autonomous cyber swarms",
-    "Applications": "",
-    "Implementations": "",
-    "Keywords": ""
+    "Technology": "Drones",
+    "Applications": "Using Drones or other autonomous systems to create swarms for offensive operations",
+    "Cases": "",
+    "Keywords": "Automated Systems, Automation, Robotics, Robots, Drones"
   },
   {
     "Technology": "Quantum computers",
-    "Applications": "AI, code encryption and decryption.",
-    "Implementations": "",
-    "Keywords": ""
+    "Applications": "Quantum computers will improve our computational capabilities which will result in better encryption and decryption of codes.",
+    "Cases": "",
+    "Keywords": "Quantum Computers, Quantum, Quantum Computing, Decryption, Encryption"
   },
   {
-    "Technology": "cryptography and communication",
-    "Applications": "Useful for creating unbrekable codes.",
-    "Implementations": "",
-    "Keywords": ""
+    "Technology": "Advanced cryptography",
+    "Applications": "Advancements in Cryptography to create advanced encyption methods that are very difficult to decrypt",
+    "Cases": "",
+    "Keywords": "Encryption, Decryption, Security, Cryptography"
   },
   {
-    "Technology": "Quantum communications",
-    "Applications": "Anti-evavesdropping, anti-jamming, and secured communications.",
-    "Implementations": "",
-    "Keywords": ""
+    "Technology": "Quantum computing",
+    "Applications": "Quantum communications will enable anti-eavesdropping, anti-jamming, and secured communications.",
+    "Cases": "",
+    "Keywords": "Quantum computing, Quantum, Security"
   },
   {
-    "Technology": "quantum computing",
-    "Applications": "Useful for sensing and detection of threats.",
-    "Implementations": "",
-    "Keywords": ""
+    "Technology": "Quantum computing",
+    "Applications": "Advancements in Quantum computing and the development of quantum sensors will allow for things such asdetecting submerged or concealed objects, and improved imaging and rapid identification of threats.",
+    "Cases": "",
+    "Keywords": "Quantum computing, Quantum, Security"
   },
   {
     "Technology": "Mixed reality",
     "Applications": "improve mapping of physical environments for data and observations. It will also enable staff to train in specific terrains which will enable them to gain experience in the field before deployment.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Virtual Reality, Mixed Reality, Terrain Mapping"
   },
   {
     "Technology": "Virtual reality",
     "Applications": "enable situational awareness to improve and will allow staff to operate systems autonomously. Soldiers will no longer have to be present physically.  Heads up display is also greatly improved.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Virtual Reality, Heads Up Display, Mixed Reality"
   },
   {
-    "Technology": "Social media",
+    "Technology": "Social Networking",
     "Applications": "allows the military to collect intel, enable cyber operations, and engage in psychological warfare to name a few. Social media could be combined with other tech for counter attacks and hybrid-warfare.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Physchological Warfare, Social Engineering, Social Media"
   },
   {
     "Technology": "Social human augmentation",
-    "Applications": "increases capabilities to undestand complex social networks.",
-    "Implementations": "",
+    "Applications": "Increases capabilities to undestand complex social networks.",
+    "Cases": "",
     "Keywords": ""
   },
   {
-    "Technology": "Quantum technology",
+    "Technology": "Quantum computing",
     "Applications": "will allow modelling and simulation viable which will result in better decision making and will decypher uncrackable codes for the first time.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Quantum Technology, Quantum Computing, Alogrithms, Quantum"
   },
   {
-    "Technology": "Data-quantum",
+    "Technology": "Quantum computing",
     "Applications": "will increase sensor capabilities, and secure communications and computing. Simulation will be improved via meta-analysis of existing technologies and science.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Quantum Technology, Quantum Computing, Alogrithms, Simulations"
   },
   {
     "Technology": "Quantum Computing",
     "Applications": "quantum optimised algorithms, problems that cannot be solved by a normal computer",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Quantum Technology, Quantum Computing, Alogrithms, Quantum"
   },
   {
     "Technology": "Advanced sensors and automated systems",
     "Applications": "Advanced sensors and automated systems, to help NATO develop and increase accuracy of  their integrated security response (ISR)",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Sensors, Advanced Sensors, Automated Systems, Automation"
   },
   {
     "Technology": "Network Technologies",
-    "Applications": "Optimised networks which can be used to increase data throughput and reduce resources",
-    "Implementations": "",
+    "Applications": "Optimised networks which can be used to increase data throughput and reduce resources on the network.",
+    "Cases": "",
     "Keywords": "Networks, Networking, Network Technologies"
   },
   {
     "Technology": "Human Emulation AI",
-    "Applications": "adversarial machine learning can be used ion the defence of a countries network and can be used against attackers.",
-    "Implementations": "",
+    "Applications": "adversarial machine learning can be used in the defence of a countries network and can be used against attackers.",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Human Emulation"
   },
   {
     "Technology": "AI technology",
     "Applications": "The pentagon suggests many potential uses for AI including implementing it indo weapons systems, enhancing aiming of military equipment to assist the human operator. This as well as intelligence analysis, record tracking, and predictive maintenance",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning"
   },
   {
-    "Technology": "AI technology to assist users with complex decision making",
+    "Technology": "Artificial Intelligence",
     "Applications": "AI can be used to assist people with complex decision making by making assessments of complex factors and effect chains",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Decision Making"
   },
   {
-    "Technology": "AI autonomy to help with assessing and analysing data",
+    "Technology": "AI autonomy",
     "Applications": "Using AI to analyse vast amounts of data to develop plans long before humans could. This would lead to a human-AI team which are protected by AI-enabled autonomous agents",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Data Analysis, Decision Making"
   },
   {
-    "Technology": "AI technology and its potential applications",
+    "Technology": "Artificial Intelligence",
     "Applications": "AI agents that can perform defensive and offensive cyber operations, weaponising information, and development of hybrid warfare countermeasures",
-    "Implementations": "Deep fakes",
+    "Cases": "Deep fakes",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Deep Fakes"
   },
   {
-    "Technology": "Autonomous software agents",
+    "Technology": "Autonomous systems",
     "Applications": "Autonomous software agents to perform jobs deemed too dull, dirty, or dangerous for humans such as reconnaissance",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Autonomous Systems, Robots, Robotics"
   },
   {
-    "Technology": "Space autonomy",
+    "Technology": "Space autonomy, Artificial Intelligence",
     "Applications": "Expanding on-orbit autonomous capabilities with AI, and processing, and enhanced robotics.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Space Technology, Space, Autonomous Systems, Space Autonomy"
   },
   {
-    "Technology": "Microarrays which can integrate comuting chips with living tissue",
-    "Applications": "This will allow for rapid diagnosis and response to synthetic or natural pathogens, as well as monitoring of treatment options.",
-    "Implementations": "",
+    "Technology": "Artificial Intelligence",
+    "Applications": "Microarrays which can integrate comuting chips with living tissue. This will allow for rapid diagnosis and response to synthetic or natural pathogens, as well as monitoring of treatment options.",
+    "Cases": "",
     "Keywords": "Diagnosis, Microarrays, Treatment"
   },
   {
-    "Technology": "Medical Countermeasures",
+    "Technology": "Artificial Intelligence",
     "Applications": "The use of AI and computers to help identify problems and model treamtents for the user without requiring a doctor or surgeon",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Medical Countermeasures, Medical, AI, Artificial Intelligence, Treatment"
   },
   {
     "Technology": "Quantum computing",
     "Applications": "Using quantum sensors within satellites to create space based networks for integrated security response",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Quantum Computing, Quantum Technologies, Quantum Sensors, Quantum"
   },
   {
-    "Technology": "AI and Autonomous Systems",
+    "Technology": "Artificial Intelligence, Autonomous Systems",
     "Applications": "Fusing AI with autonomous systems which can have sophisticated decision making, self directed activity, and have increasingly complex patterns and behavious",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Autonomous Systems, Robots, Robotics"
   },
   {
-    "Technology": "AI and Sophisticated Algorithms",
+    "Technology": "Artificial Intelligence, Algorithms",
     "Applications": "Utilising complicated AI and increasingly complex algorithms that replicate revolution to create advanced AI that can make informed decisions much faster than humans and performing analysis to see which strategies can lead to success or failure",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Advanced Algorithms"
   },
   {
-    "Technology": "Advanced networks including deep mesh networks for communication in military conflict",
+    "Technology": "Network Technologies",
     "Applications": "Evolving mesh networks which can be used to inform military action. These will also be targets for disinformation and cyber attacks",
-    "Implementations": "C4ISR",
+    "Cases": "C4ISR",
     "Keywords": "Networks, Networking, Network Technologies, Deep Mesh, Mesh"
   },
   {
-    "Technology": "AI and its uses within warfare, both physical warfare and digitally",
+    "Technology": "Artificial Intelligence",
     "Applications": "AI will be used in every way in the future, including controlling societies and organizations, as well as within sensors, which will be integrated within existing systems.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Advanced Algorithms"
   },
   {
-    "Technology": "Big data and advance analytics",
-    "Applications": "Better communication and understanding of human and physical information.",
-    "Implementations": "",
+    "Technology": "Big Data, Advanced Analytics",
+    "Applications": "Big data will be used to better inform communication and understanding of human and physical information.",
+    "Cases": "",
     "Keywords": "Big Data, Data, Analysis, Analytics, Communication"
   },
   {
-    "Technology": "Quantum radar",
-    "Applications": "will increase search capability which will render stealth unusable.",
-    "Implementations": "",
+    "Technology": "Quantum computing, Quantum Sensors",
+    "Applications": "Quantum Sensors will increase search capability which will render stealth unusable.",
+    "Cases": "",
     "Keywords": "Quantum Radar, Stealth, Radar, Surveillance"
   },
   {
-    "Technology": "Interactive digital experience",
+    "Technology": "Interactive experiences",
     "Applications": "allow audience to control the outcome of their favourite show.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Interactive Digital Experience, Interactive, Experience, Digitial"
   },
   {
-    "Technology": "Digital ordering kiosks",
-    "Applications": "Recommendations are personalized based on weather, time, and past purchases, etc.",
-    "Implementations": "",
+    "Technology": "Autonomous Systems",
+    "Applications": "McDonalds ordering kiosks will provide recommendations that are personalized based on weather, time, and past purchases, etc.",
+    "Cases": "",
     "Keywords": "Kiosks, Digital Ordering Kiosks, Digital Ordering, Personalised Recommendations"
   },
   {
     "Technology": "Cooperative experience",
-    "Applications": "Will allow consumers to have more control and power over their experiences.",
-    "Implementations": "",
+    "Applications": "Creating cooperative experiences for customers, creating and fostering loyalty based on customer agency",
+    "Cases": "",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
     "Technology": "Cooperative experience",
-    "Applications": "Allow participants to customize their profile for a few minutes which then last for a few hours. Information reset occurs everyday.",
-    "Implementations": "Swipe Night",
+    "Applications": "Tinder introduced an interactive and cooperative experience called 'Swipe Night\" in which people would swipe the advance the plot of the story, and the decisions could be displayed on their profile",
+    "Cases": "Swipe Night",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
     "Technology": "Cooperative experience",
-    "Applications": "Customizes recommendations based on how the player feels and playtime history.",
-    "Implementations": "Steam Labs",
+    "Applications": "Steam Labs is working a new kind of game recommendation system, which will allow the users to feel involved in their choices and what gets recommended to them at any moment",
+    "Cases": "Steam Labs",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
     "Technology": "Cooperative experience",
-    "Applications": "Allow consumers to ride in silence.",
-    "Implementations": "Quiet preferred",
+    "Applications": "Uber began adding customizable options to their app such as \"quiet preferred\" which a user could select to avoid the need to smalltalk with their driver",
+    "Cases": "Quiet preferred",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
-    "Technology": "Augmented Reality and 5G",
-    "Applications": "AR enables visual environment customization and 5G allows new interactions and channels.",
-    "Implementations": "",
+    "Technology": "Augmented Reality, 5G",
+    "Applications": "AR enables visual environment customization and 5G allows new interactions and channels, to provide experiences to users anywhere in the world",
+    "Cases": "",
     "Keywords": "Augemented Reality, Mixed Reality, 5G, Virtual Reality"
   },
   {
     "Technology": "Augmented Reality",
     "Applications": "Cyberverse combines augmented reality with physical reality using existing technology such as 3D mapping, spatial computing, and 5G.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Augemented Reality, Mixed Reality, Virtual Reality"
   },
   {
     "Technology": "Augmented Reality",
     "Applications": "[AR]T allow consumers to experience walking art tour around the world as well as to create AR arts.",
-    "Implementations": "[AR]T",
+    "Cases": "[AR]T",
     "Keywords": "Augemented Reality, Mixed Reality, Virtual Reality, Art Tour, Tour"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "THE.FIT uses AI to enhance consumer experience by tailoring to their specific dietary needs.",
-    "Implementations": "THE.FIT",
+    "Cases": "THE.FIT",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning"
   },
   {
-    "Technology": "Development platform",
+    "Technology": "Augemented Reality, Virtual Reality",
     "Applications": "Sumerian allows user to create AR, VR, 3D applications without any prior programming or 3D rendering experience.",
-    "Implementations": "Sumerian",
+    "Cases": "Sumerian",
     "Keywords": "Augmented Reality, AR, Virtual Reality, VR, 3D Render, Rendering, Programming"
   },
   {
     "Technology": "Cooperative experience",
-    "Applications": "Enables consumers to create own experiences and decide outcome of stories.",
-    "Implementations": "",
+    "Applications": "Enables consumers to create own experiences and decide outcome of stories, throuigh a sort of choose your own adventure style.",
+    "Cases": "",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
     "Technology": "Data and communication",
-    "Applications": "Will enable clients to choose where their data is stored.",
-    "Implementations": "Slack",
+    "Applications": "Will enable clients to choose where their data is stored.Slack is allowing people to choose where their data is stored and adds in user agency to their data",
+    "Cases": "Slack",
     "Keywords": "Data, Communication, Data Storage"
   },
   {
-    "Technology": "Data gathering",
+    "Technology": "Data Security",
     "Applications": "Google has auto-delete feature which allow users to set limits to how long their data can be used post generation.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Data, Communication, Data Storage, Privacy"
   },
   {
     "Technology": "5G Networks",
-    "Applications": "5G will allow better network connections with devices and people.",
-    "Implementations": "",
+    "Applications": "5G will allow better network connections with devices and people, to create a more interconnected society.",
+    "Cases": "",
     "Keywords": "5G, Networks, Networking, Communication"
   },
   {
     "Technology": "Cooperative experience",
     "Applications": "Fornite and Minecraft enables players to build thier own world therefore, the game is always evolving. It creates a unique social experience with every gaming session using Amazon Web Services.",
-    "Implementations": "Amazon Web Services",
+    "Cases": "Amazon Web Services",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
     "Technology": "Cooperative experience",
     "Applications": "Fornite uses Unreal gaming engine in combination with AWS to support a variety of gameplays.",
-    "Implementations": "Amazon Web Services and Unreal gaming engine.",
+    "Cases": "Amazon Web Services and Unreal gaming engine.",
     "Keywords": "Cooperative Experience, Cooperative, Co-Op"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "Fortnite is utilizing AI controlled bots to increase players satisfaction as they have more chance to learn the game and not get eliminated and abandon too quickly.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Bots"
   },
   {
-    "Technology": "Interactive digital experience",
+    "Technology": "Interactive experiences",
     "Applications": "HOK utilizes Unreal Engine for their architecture designs. It enables the client to immerse into the environment and make them feel more realistic.",
-    "Implementations": "Epic's Unreal Engine",
+    "Cases": "Epic's Unreal Engine",
     "Keywords": "Interactive Digital Experience, Interactive, Experience, Digitial"
   },
   {
-    "Technology": "Interactive digital experience",
+    "Technology": "Interactive experiences",
     "Applications": "Finnair uses Unreal Engine for their VR experiences for staff training.",
-    "Implementations": "Epic's Unreal Engine",
+    "Cases": "Epic's Unreal Engine",
     "Keywords": "Interactive Digital Experience, Interactive, Experience, Digitial"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "Engineers collaborate with AI to produce possible solutions to engineering problems.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Algorithms"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "MuseNet created by OpenAI allows people to compose music with no prior musical or technological background.",
-    "Implementations": "MuseNet",
+    "Cases": "MuseNet",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms"
   },
   {
     "Technology": "Artificial Inteligence, Extended Realing, Natural Language Processing",
     "Applications": "NLP, AI, and XR will enable better human and machine interactions.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Language Processing, XR, Mixed Reality, Cross Reality"
   },
   {
     "Technology": "AI, Natural Language Processing",
     "Applications": "BERT and ERNIE enables AI to understand phrases.",
-    "Implementations": "BERT and ERNIE",
+    "Cases": "BERT and ERNIE",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Language Processing"
   },
   {
     "Technology": "AI, Natural Language Processing",
     "Applications": "CARA is a AI powered research platform which helps lawyers build their cases. It filters algorithm to make passages from AI for human review.",
-    "Implementations": "CARA",
+    "Cases": "CARA",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Language Processing"
   },
   {
     "Technology": "Mixed Reality",
     "Applications": "HoloLens 2 combines image recognition and machine learning to understand the user's physical environment.",
-    "Implementations": "HoloLens 2",
+    "Cases": "HoloLens 2",
     "Keywords": "Mixed Reality, XR, Cross Reality, AR, Augmented Reality"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "AI is utilized to make suggestions based on the applicant's situation to enable them to get a loan.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms"
   },
   {
     "Technology": "Artificial Intelligence",
     "Applications": "IBM created an AI that could 'read' through newspaper and journal opinions to construct an argument for a debate.",
-    "Implementations": "IBM Watson's Project Debater",
+    "Cases": "IBM Watson's Project Debater",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms"
   },
   {
     "Technology": "Human-AI collaboration",
     "Applications": "Lemonades AI will attempt to resolve customers claims but by comparing it against their database, if it is too complex it will notify a human and provide all the information collected so far",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Human-AI Collaboration"
   },
   {
     "Technology": "Human-AI collaboration",
     "Applications": "Microsoft launched an AI presentation coach for PowerPoint that will assist presenters with pace, slide reading and wording. It will also detect when a person is reading off the slides, or using 'filler' words and will advise and provide feedback on how to change it.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Human-AI Collaboration"
   },
   {
     "Technology": "Human-AI collaboration",
     "Applications": "Cogito is working on an AI that can coach people in call centres in empathy, and advise them when they are speaking too fast or interrupting the custmer, in an attempt to improve customer support",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Human-AI Collaboration"
   },
   {
     "Technology": "Voice recognition and search, Machine Learning",
     "Applications": "Adobe is developing a tool called sensei that can assist with searching adobes repository of images and videos by speaking to sensei. It also learns habits and patters the more it is used. Sensei can also help move through the workflow by being able to move selected images into photoshop and across their other programs.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Algorithms, Voice Recognition"
   },
   {
     "Technology": "Automated sytems, Robotics",
     "Applications": "FarmWise wants to deploy autonomous robots that can seed, weed and harvest crops on farms.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Automated sytems, Robotics",
     "Applications": "Rosborg Food is using robots that can automatically deal and handle delicate plants, without a human. Meaning, automation can occur in a place where it once was impossible",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Automated sytems, Robotics",
     "Applications": "A Swedish company is attempting to deploy a robot called Tengai, which will interview people for jobs. This is done in an attempt to eliminate unconcious bias, such as race, age, and gender",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Automated sytems, Drones",
     "Applications": "Amazon is creating a scout delivery service, which will be able to deliver to customers from an Amazon warehouse.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Drones"
   },
   {
     "Technology": "Self driving vehicle, Drones",
     "Applications": "UPS is working with a startup to develop autonomous trucking, at presesnt it is locked to a specific location and a driver is always required in the vehicle but it should allow for driverless delivery vehicles in the future. It is also looking into unmanned drone delivery",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving"
   },
   {
     "Technology": "Robotics",
     "Applications": "Boston Dynamics has created Spot and will be commercially available. Spot can be used to check pipelines in construction sites for example.",
-    "Implementations": "Spot",
+    "Cases": "Spot",
     "Keywords": "Robotics, Robots, AI, Artificial Intelligence"
   },
   {
     "Technology": "Electric transportation",
     "Applications": "Bird, Lime, and Spin has introduced electric scooters sharing in San Francisco.",
-    "Implementations": "Bird, Lime, Spin scooters",
-    "Keywords": ""
+    "Cases": "Bird, Lime, Spin scooters",
+    "Keywords": "Rideshare, Lime, Bird, Spin"
   },
   {
     "Technology": "Robotics",
     "Applications": "Postmates will be introducing autonomous delivery robots in San Francisco after an initial ban on 2017.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, AI"
   },
   {
     "Technology": "Artificial Inteligence, Smart device",
-    "Applications": "Nest allows users to control other smart devices.",
-    "Implementations": "Nest",
+    "Applications": "Nest allows users to control other smart devices in their home, creating a \"smart home\" of devices that are all interconnected.",
+    "Cases": "Nest",
     "Keywords": "Robotics, Robots, AI, Artificial Intelligence, Smart, Smart Device"
   },
   {
     "Technology": "Robotics",
     "Applications": "Aibo is a robot companion that is publicly purchasable. It uses a cloud service to remember faces, environments, and iteractions therefore, making every Aibo unique from each other.",
-    "Implementations": "Aibo",
+    "Cases": "Aibo",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, AI"
   },
   {
     "Technology": "Artificial Inteligence, Cooperative Experience",
     "Applications": "Echo uses Alexa to allow users to grab information and interact with their personal spaces.",
-    "Implementations": "Echo, Alexa",
+    "Cases": "Echo, Alexa",
     "Keywords": "AI, Aritificial Intelligence, Cooperative Experience, Cooperative"
   },
   {
     "Technology": "Software",
-    "Applications": "Digital nervous system will allow over the air software updates and will improve speed of data processing.",
-    "Implementations": "Digital nervous system",
+    "Applications": "Digital nervous system for GM's new cars which will allow over the air software updates and will improve speed of data processing.",
+    "Cases": "Digital nervous system",
     "Keywords": "Digital Nervous System"
   },
   {
     "Technology": "Software",
-    "Applications": "New softwares will be developed to predict advance material failures.",
-    "Implementations": "",
+    "Applications": "New softwares will be developed to predict advance material failures, as well as predict the properties of a material and its behaviour.",
+    "Cases": "",
     "Keywords": ""
   },
   {
     "Technology": "Artificial Intelligence",
     "Applications": "Simcam uses AI to recognizes and analyzes faces and store it locally rather than in the cloud.",
-    "Implementations": "Simcam",
+    "Cases": "Simcam",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning"
   },
   {
     "Technology": "Machine Learning, Security",
     "Applications": "Drug discovery algorithm is trained to allow safe data sharing between pharmaceutical companies. Data are homomorphically encrypted and raw data are never seen by the whole ecosystem.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Security, Data Sharing"
   },
   {
     "Technology": "Machine Learning, Security",
     "Applications": "Voting system is being developed to monitor the US election without touching the actual votes. This prevents manipulation and analysis can be done while encryption is active.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Security, Data Sharing"
   },
   {
     "Technology": "Robotics",
     "Applications": "Robots will become more accessible due to advances in robotic technologies and cheaper hardware.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Robotics, Robots, AI, Artificial Intelligence"
   },
   {
     "Technology": "5G",
     "Applications": "5G will unlock more autonomous capabilities outside of warehouses and production facilities.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "5G, Networks, Networking"
   },
   {
     "Technology": "Robotics",
     "Applications": "Amazon's Scout is a delivery robot that will be able to navigate autonomously and deliver packages.",
-    "Implementations": "Scout",
+    "Cases": "Scout",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving"
   },
   {
     "Technology": "Robotics",
     "Applications": "Walmart is utilizing robots to clean floors, check inventories, and sort incoming packages.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving"
   },
   {
     "Technology": "Robotics",
     "Applications": "TyBot is utilizing technology from self driving cars to tie rebar in construction sites which makes the job faster and safer.",
-    "Implementations": "TyBot",
+    "Cases": "TyBot",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving"
   },
   {
     "Technology": "Robotics",
     "Applications": "Robots will be deployed in farms to seed, weed, and harvest. Computer vision, sensors, and algorithms are combined to gather plant data.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving"
   },
   {
     "Technology": "Robotics",
     "Applications": "OnRobot is being used to handle delicate greenhouse plants due to its advanced gripping technology. This new technology tackles past challenges in greehouse agriculture.",
-    "Implementations": "OnRobot",
+    "Cases": "OnRobot",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Robotics",
     "Applications": "Tengai is a robot that will be deployed as a job interviewer to eliminate human unconscious bias due to multiple factors such as age and gender.",
-    "Implementations": "Tengai",
+    "Cases": "Tengai",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Drones",
     "Applications": "Drone delivery will be soon be possible as UPS have partnered with WakeMed to develop drones for healthcare deliveries. WakeMed has prior experience in deliveries in countries in Africa.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving"
   },
   {
     "Technology": "Robotics",
     "Applications": "Tokyo government officials are developing robots to assisst visitors during the olympics. They will provide directions and support people in wheelchairs.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Assistance"
   },
   {
     "Technology": "Self driving vehicle",
     "Applications": "Waymo has created sensors for its self driving cars and they have made these sensors commercially available.",
-    "Implementations": "Waymo",
+    "Cases": "Waymo",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving, Sensors"
   },
   {
     "Technology": "Robotics",
     "Applications": "RaaS has enabled outsourcing cost of automation which resulted in big growth in robotic bases.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "5G",
     "Applications": "Rollouts of 5G has been occuring around the world. SK telecom has one millions 5G users just in 140 days.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "5G, Networks, Networking"
   },
   {
     "Technology": "5G, Augmented Reality",
     "Applications": "American carriers AT&T and Verizon installed 5G in a dozen stadiums across United States which enables people to experiece AR.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "5G, Networks, Networking, AR, Augmented Reality"
   },
   {
     "Technology": "5G",
     "Applications": "Remote surgery may now be possible as 5G devices are currently being developed for healthcare. Inaccessible areas around the world could now get access to healthcare.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "5G, Networks, Networking"
   },
   {
     "Technology": "Cloud solution, Robotics",
     "Applications": "Japanese manufacturer FANUC utilizes cloud solution to connect all of its robots which prevents an estimated 2,400 hours of downtime which is equivalent to $72 million.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, Cloud"
   },
   {
     "Technology": "Robotics",
     "Applications": "Amazon uses 200,000 robots to move packages in warehouses.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Automation",
     "Applications": "JD.com uses automated center to sort 200,000 packages daily.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Robotics",
     "Applications": "Unmmaned machines are being utilized to move large amount of materials in dangerous areas throughout the day with no human presence.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Automation",
     "Applications": "Automation is being utilized in agriculture using tractors to collect data througout the day.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Robotics",
     "Applications": "Alibaba's FlyZoo hotel in China is near full autonomous. It's built with 290 rooms with robots performing tasks such as room servicing and drinks mixing.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "Robotics",
     "Applications": "Kiwibots are delivering foods to students within the University of California campus and its neighboring areas.",
-    "Implementations": "Kiwibots",
+    "Cases": "Kiwibots",
     "Keywords": "Automated Systems, Robotics, Robots"
   },
   {
     "Technology": "5G, Robotics",
     "Applications": "The rollout of 5G is being combined with robotics to enable automation of inventory. As well as looking for out of stock and mispriced products.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, 5G, Networks, Networking"
   },
   {
     "Technology": "5G",
     "Applications": "5G rollouts not only improve connections but will also increase business engagement and investment.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "5G, Networks, Networking"
   },
   {
     "Technology": "5G, Automation, Robotics, Self driving vehicles",
     "Applications": "Chongqing in China has enabled the first 5G autonomous vehicle pilot zone which local vehicle makers are using to test their self driving vehicles.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "Automated Systems, Robotics, Robots, 5G, Networks, Networking, Self Driving"
   },
   {
     "Technology": "Quantum computing",
     "Applications": "Fujitsu is teaming up with 1QBit to create a quantum like digital annealer which could solve highly complex problems at quantum scale and speed.",
-    "Implementations": "Digital annealer",
+    "Cases": "Digital annealer",
     "Keywords": "Quantum, Quantum Technology, Quantum Computing, Algorithms"
   },
   {
-    "Technology": "DARQ  (distributed ledgers, artificial\nintelligence, extended reality and quantum\ncomputing)",
+    "Technology": "DARQ",
     "Applications": "Innovation DNA is moving forward by improving digital technology using DARQ (distributed ledgers, artificial intelligence, extended reality and quantum computing) which will scale quickly.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, XR, Quantum Computing, Quantum"
   },
   {
-    "Technology": "Self driving vehicle",
+    "Technology": "Autonomous Systems",
     "Applications": "Domino's Pizza and Nuro have developed a self driving pizza delivery called R2 for customers in Houston.",
-    "Implementations": "R2",
+    "Cases": "R2",
     "Keywords": "Automated Systems, Robotics, Robots, Drones, Self Driving Vehicle, Self Driving, Sensors"
   },
   {
     "Technology": "DARQ, Artificial Inteligence",
     "Applications": "DARQ technology is being utilized by Kebotix to aid new material discovery. This speeds up the process of material discovery by feeding 3D models of compounds into the AI which then create new designs that fit the model.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, XR, Quantum Computing, Quantum, DARQ"
   },
   {
     "Technology": "DARQ, Virtual Reality",
     "Applications": "Virtual Reality is utilized for The Lion King movie instead of physical sets. This enabled filmmakers to roam around and film.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, XR, Quantum Computing, Quantum, VR, Virtual Reality, DARQ"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "StudioLAB was created by Accenture, Cisco, HP, and Walt Disney Studios to optimize and advance story telling techniques. They were able to do this using Artificial Inteligence and IoT.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning"
   },
   {
     "Technology": "Artificial Inteligence",
     "Applications": "Food technology is advancing with the help of Artificial Inteligence. Kraf-Heinz acquired Wellio, an AI food tech startup to work on digital solutions for food.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning"
   },
   {
     "Technology": "DARQ",
     "Applications": "Waymo is releasing public data from its self driving vehicles for academic purposes which utilizes DARQ technology.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, XR, Quantum Computing, Quantum, DARQ"
   },
   {
-    "Technology": "Visual Search Engine",
+    "Technology": "Artificial Intelligence",
     "Applications": "A visual search engine called Pinterest Lens is able to recognize 2.5 billion items from tattoos to food and more. It is currently being used by 80 percent of Pinterest users.",
-    "Implementations": "Pinterest Lens",
-    "Keywords": ""
+    "Cases": "Pinterest Lens",
+    "Keywords": "Seach Engine, Search, Artificial Intelligence"
   },
   {
     "Technology": "Artificial Inteligence, Extended Reality",
     "Applications": "Facebook is using AI image recognition for their cross reality experiences, by mapping out rooms and locations and developing a compendium of spaces, meaning these deivces can draw from this compendium instead of needing to remap spaces",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, XR, Extended Reality"
   },
   {
     "Technology": "Artificial Intelligence, Machine Learning, Data Storage technology",
     "Applications": "A Microsoft project is working to utilise machine learning to encode data into glass, which is more resiliant to environmental factors. The technology is currently very early but were able to store and retrieve the 1978 superman movie on the disk.",
-    "Implementations": "",
+    "Cases": "",
     "Keywords": "AI, Aritificial Intelligence, Machine Learning, Data Storage"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "IoT technology is expected to connect smart cities and healthcare systems all around the world.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "IoT will be extensively use for online education. Online education or E-learning will enable educators as well as students to work together in real time without being physically located in the same room. This will drastically improve performance, efficiency, and introduce online assessment.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "IoT will connect institutes around the world which will greatly improve research.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "A new model of IoT called Internet of Education may also form.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "IoT will improve communication as students will be able to answer or ask questions, questionnaires and also provide feedbacks quickly. This can contribute to youth development positively.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "IoT will enable connections between the physical world and virtual objects.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things, Automation",
+    "Applications": "IoT will allow automation to aid a user to user a computer application.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things, Automation"
+  },
+  {
+    "Technology": "Internet of Things, E-learning, Virtual Reality",
+    "Applications": "IoT may result in issues with face to face interactions and communication between students and tutors. This can be resolved by using interactive smart agents. Virtual and reality may also be combined.",
+    "Cases": "",
+    "Keywords": "IoT, VR, Internet of Things, E-learning, Virtual Reality"
+  },
+  {
+    "Technology": "Automation, Internet of Things",
+    "Applications": "Automation due to IoT will allow human objects interaction which may encourage self learning.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things, Automation"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Student will utilize IoT by being able to access materials online as well as to send and recieve feedback to educators.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "All objects will be connected and will be creating new signals and connections every second. They will also be able to connect virtually or physically through the internet.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Smart physical objects may define the future through IoT.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "IoT will allow virtual collaboration platform by combining tools, sensors, actuators, and storage technology.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Hyper connectivity due to IoT will transform the human education style and it will be available worldwide.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Big Data with large domain of objects will be able to interact and generate large set of Data all because of IoT. Scalability will affect classroom sizes, sensors, actuators, and nodes.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Multiple students and educators will be able to form groups and finish projects due to intelligent collaboration of IoT.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Future community needs will be predicted automatically based on their past input and experiences using smart-physical-virtual objects through IoT.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Through IoT, devices with multiple features such as for observation, monitoring, communication, and decision will be created and this may create smart researching.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "In IoT, Intelligent Agents will be able to aid users on how to interact with computer apps through automation.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Students will be able to form groups and share their experiences and opinions which may result in improved social, emotional, physical, and behavioural engagement. Realtime feedback will also be possible.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Hyper connectivity in IoT will connect a lot of education providers all over the world.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
+  },
+  {
+    "Technology": "Internet of Things",
+    "Applications": "Borders will no longer restrict people and they will be able to collaborate globally regardless of their location because of IoT.",
+    "Cases": "",
+    "Keywords": "IoT, Internet of Things"
   }
 ]

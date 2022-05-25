@@ -23,17 +23,19 @@ class TechnologyList {
 
     showTechnologies(technologies) {
         let myTable = document.getElementById("techList");
-        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th style='width:15%;'>Name</th><th style='width:65%;'>Application</th><th style='width:15%;'>Keywords</th></tr>";
+        myTable.innerHTML = "<tr><th style='width:5%;'>Number</th><th style='width:15%;'>Name</th><th style='width:65%;'>Application</th><th style='width:15%;'>Cases</th><th style='width:15%;'>Keywords</th></tr>";
         for (let i = 0; i < technologies.length; i++) {
             let mainRow = myTable.insertRow(i + 1);
             let cellOne = mainRow.insertCell(0);
             let cellTwo = mainRow.insertCell(1);
             let cellThree = mainRow.insertCell(2);
             let cellFour = mainRow.insertCell(3);
+            let cellFive = mainRow.insertCell(4);
             cellOne.innerHTML = i + 1;
             cellTwo.innerHTML = technologies[i].name;
             cellThree.innerHTML = technologies[i].description;
-            cellFour.innerHTML = technologies[i].keywords;
+            cellFour.innerHTML = technologies[i].cases;
+            cellFive.innerHTML = technologies[i].keywords;
         }
     }
 
@@ -75,16 +77,17 @@ class TechnologyList {
         });
         data.forEach(item => {
             let keywords = item.Keywords.toLowerCase().split(", ");
-            var technology = new Technology(item.Technology, item.Applications, keywords);
+            var technology = new Technology(item.Technology, item.Applications, item.Cases, keywords);
             this.addTechnology(technology);
         })
     }
 }
 
 class Technology {
-    constructor(name, description, keywords) {
+    constructor(name, description, cases, keywords) {
         this.name = name;
         this.description = description;
+        this.cases = cases
         this.keywords = keywords;
     }
 }
